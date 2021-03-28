@@ -24,7 +24,7 @@ The school board sees that academic dishonesty is occurring and want to remove t
 ## Results
 * Replace ninth graders reading and math scores with NaN. 
   
-  ![alt text](Resources/ninth_nan.png)
+  ![alt text](Resource/ninth_nan.png)
   
   
 * Number and percentage of votes for each county. 
