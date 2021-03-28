@@ -24,7 +24,7 @@ The school board sees that academic dishonesty is occurring and want to remove t
 ## Results
 * Replace ninth graders reading and math scores with NaN. 
   
-  ![alt text](Resources/ninth_NaN.png)
+  ![alt text](Resources/ninth_nan.png)
   
   
 * Number and percentage of votes for each county. 
@@ -45,7 +45,7 @@ The school board sees that academic dishonesty is occurring and want to remove t
 
   The winner of the election is Diana DeGette who received 73.8% of the votes and 272,892 number of votes. 
 
-![alt text](Resources/election_analysis.png)
+![alt text](Resource/election_analysis.png)
 
 <a name="Summary"></a>
 ## Summary
