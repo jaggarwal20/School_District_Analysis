@@ -11,18 +11,18 @@
 <a name="Project-Overview"></a>
 ## Project Overview
 ### 1.1 Purpose
-Seth and Tom need help conducting an election audit for the Colorado Board of Elections. The board requests that the candidate winner is confirmed but also require the following:
- 1. The voter turnout for each city
- 2. The percentage of votes from each county out of the total votes
- 3. The county with the highest turnout
+The school board sees that academic dishonesty is occurring and want to remove the ninth graders from the list as their grades have been altered.
+
+ 1. Replace ninth graders reading and math scores with NaN
+ 2. Conduct a school district analysis
 
 ### 1.2 Resouces
-- Data Source: election_results.csv
-- Software: Python 3.6.1, Visual Studio Code, 1.38.1
+- Data Source: schools_complete.csv and students_complete.csv
+- Software: Python 3.6.1, Jupyter Notebook
 
 <a name="Results"></a>
 ## Results
-* Calculate the total number of votes cast.
+* Replace ninth graders reading and math scores with NaN. 
   
   The total number of votes cast is 369,711. This total was calculated by creating a for loop. 
   
