@@ -25,6 +25,7 @@ The school board sees that academic dishonesty is occurring and want to remove t
 * Replace ninth graders reading and math scores with NaN. 
   
   The total number of votes cast is 369,711. This total was calculated by creating a for loop. 
+  ![alt text](Resources/ninth_NaN.png)
   
 * Number and percentage of votes for each county. 
   
