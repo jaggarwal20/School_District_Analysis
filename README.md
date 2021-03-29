@@ -45,6 +45,9 @@ The school board sees that academic dishonesty is occurring and want to remove t
    ![alt text](Resource/THS_No_9th.png)
    
   - Scores by school spending
+    The scores by school spending did not change, as it is based off of per capitia.
+    *Per Capita = per school budget/per school counts
+    
   - Scores by school size
   - Scores by school type
 
