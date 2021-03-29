@@ -38,9 +38,10 @@ The school board sees that academic dishonesty is occurring and want to remove t
    
    The percentage of students that passed math and reading significantly increased when removing the ninth graders.  The scores for math went from 66.9% to 93.2% and the reading scored went 69.7% to 97.0%. 
    
-   ![alt text](Resource/THS_Original)
-   ![alt text](Resource/THS_No_9th)
-   . 
+   ![alt text](Resource/THS_Original.png)
+   
+   ![alt text](Resource/THS_No_9th.png)
+   
   - Scores by school spending
   - Scores by school size
   - Scores by school type
