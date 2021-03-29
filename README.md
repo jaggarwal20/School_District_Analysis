@@ -27,32 +27,20 @@ The school board sees that academic dishonesty is occurring and want to remove t
   ![alt text](Resource/ninth_nan.png)
   
   
-* Number and percentage of votes for each county. 
-  
-  - Jefferson County recieved 38855 votes, which is 10.5% of the total votes. 
-  - Denver County received 306055 votes, which is 82.8% of the total votes.
-  - Arapahoe County received 24801 votes, which is 6.7% of the total votes. 
-  
-* Which county had the largest number of votes?
-  - Denver
- 
-* Number and percentage of votes each candidate received. 
-  - Charles Casper received 23.0% of the vote and 85,213 number of votes.
-  - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
-  - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
-  
-* Determine the winner of the election based on popular vote.
+* How is the district summary affected?
 
-  The winner of the election is Diana DeGette who received 73.8% of the votes and 272,892 number of votes. 
+* How is the school summary affected?
 
-![alt text](Resource/election_analysis.png)
+* How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+* How does replacing the ninth-grade scores affect the following:
+  - Math and reading scores by grade
+  - Scores by school spending
+  - Scores by school size
+  - Scores by school type
 
 <a name="Summary"></a>
 ## Summary
 
-This script can be effectively used to calculate votes for every election to count votes more accurately.  The votes are represented not only in a total vote count, but also in a percentage. The percentage allows for easier interpretation of the data and also normalizes the data, which allows for accurate reporting of who the winner is.
-This script can be used for any election by adjusting the load file and save file paths. 
-![alt text](Resources/Load_Save_File.png)
-
-The variables can also be adjusted to represent the data more accurately. For instance if the votes is on a state level rather than a county level. 
+Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
