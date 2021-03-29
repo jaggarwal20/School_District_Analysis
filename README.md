@@ -50,6 +50,9 @@ The school board sees that academic dishonesty is occurring and want to remove t
     `Per Capita = per school budget/per school counts`
     
   - Scores by school size
+   There were no changes in the school size, as the 9th graders from Thomas High School were only removed from the total count of students in the district.  The school size is based off of the following calculation
+   `school_data_complete_df["school_name"].value_counts()`
+   
   - Scores by school type
 
 <a name="Summary"></a>
