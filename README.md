@@ -57,10 +57,10 @@ The school board sees that academic dishonesty is occurring and want to remove t
    The scores by school type was also based off of the type of school and used the passing scores without the ninth graders.  At a school type level the differences were at the 100th decimal place, therefore removing the ninth graders did not impact the results. 
    
    Original:
-   [alt text](Resource/Type_original.png)
+   [school type](Resource/Type_original.png)
    
    Removed 9th Graders:
-   [alt text](Resource/type_no_ninth.png)
+   [school type](Resource/type_no_ninth.png)
 
 <a name="Summary"></a>
 ## Summary
