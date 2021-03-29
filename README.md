@@ -54,6 +54,7 @@ The school board sees that academic dishonesty is occurring and want to remove t
    `school_data_complete_df["school_name"].value_counts()`
    
   - Scores by school type
+   The scores by school type was also based off of the type of school and used the passing scores without the ninth graders.  At a school type level the differences were  
 
 <a name="Summary"></a>
 ## Summary
