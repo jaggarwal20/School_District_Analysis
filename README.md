@@ -33,6 +33,8 @@ The school board sees that academic dishonesty is occurring and want to remove t
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
+  - Replacing the ninth grader's math and reading scores improves the relative performance compared to other schools. Thomas High School becomes a top performing school for the percentage of students passing math and reading.  
+
 * How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
    
@@ -66,4 +68,6 @@ The school board sees that academic dishonesty is occurring and want to remove t
 ## Summary
 
 Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+ 
+ 1. The passings rate for Math and Reading scores significantly increased. 
 
