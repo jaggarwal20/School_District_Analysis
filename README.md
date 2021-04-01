@@ -29,6 +29,12 @@ The school board sees that academic dishonesty is occurring and want to remove t
   
 * How is the district summary affected?
 
+ When removing the ninth graders from Thomas High School the school district summary decreased in total student count by 461 students.  The average scores and passing did not change for the overall district scores because the ninth graders was only removed from one high school and not all high schools.
+ 
+Summary District after ninth graders are removed: 
+
+![alt text](Resource/School_District_Summary_no9.png)
+
 * How is the school summary affected?
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
