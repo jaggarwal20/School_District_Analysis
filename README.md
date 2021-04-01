@@ -8,7 +8,7 @@
 
 - [3.0 Summary](#Summary)
 
-- [4.0 Challenges] (#Challenges)
+- [4.0 Challenges](#Challenges)
 
 <a name="Project-Overview"></a>
 ## Project Overview
